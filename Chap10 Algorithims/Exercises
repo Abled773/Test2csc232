@@ -1,1 +1,34 @@
+Question 1 -----------------------------------------------------------------------
+a O(n)
+b O(n^2)
+c O(n)
+d O(1)
+e O(1)
+f O(n)
+g O(n)
 
+Question 3 ------------------------------------------------------------------
+a O(n)
+b O(n)
+c O(n)
+d O(n^2) ?
+e O(1)
+f O(n)
+g O(n)
+h O(logn)
+i O(1)
+j O(1)
+
+Question 4 ------------------------------------------------
+The time complexity is O(n^2) the actual time complexity is n^2 * 10 as we multliply the for loops end condition (n*n*10). For big O notation however, we focus on the leading term minus the constants.
+
+Question 5 ------------------------------------------------------------
+O(n^2) or n^2
+
+Question 6 -----------------------------------------------------------------
+No binary search's time complexity is Big(logn) while sequential is Big(n^2)
+
+Question 10
+I am lazy for O(n^2) just use bubble sort or something
+
+for O(n) just make an algorithim that sends all negatives to one half while the positives stay on the left. it does not need to be sorted.

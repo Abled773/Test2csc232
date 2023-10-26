@@ -26,7 +26,7 @@ Question 5 ------------------------------------------------------------
 O(n^2) or n^2
 
 Question 6 -----------------------------------------------------------------
-No binary search's time complexity is Big(logn) while sequential is Big(n^2)
+No binary search's time complexity is O(logn) while sequential is O(n^2)
 
 Question 10
 I am lazy for O(n^2) just use bubble sort or something

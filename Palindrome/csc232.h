@@ -11,6 +11,9 @@
  * @copyright Copyright (c) 2023 James R. Daehn
  */
 
+
+
+//EVERYTHING IS IN MAIN YOU JUST HAVE TO SCROLL DOWN A WAYS.
 #ifndef MSU_CSC232_H_
 #define MSU_CSC232_H_
 

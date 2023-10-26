@@ -1,3 +1,18 @@
+/**
+ * CSC232 - Data Structures
+ * Missouri State University, Fall 2023
+ *
+ * @file    csc232.h
+ * @author  Jim Daehn <jdaehn@missouristate.edu>
+            Gavin Robertson <gavinr900@gmail.com>
+ * @brief   Macros, libraries and definitions for use in csc232 assignments.
+ * @version 1.0.0
+ * @date    09/02/2023
+ *
+ * @copyright Copyright (c) 2023 James R. Daehn
+ */
+
+//Problem is in main you have to scroll down.
 #include <algorithm>
 #include <cassert>
 #include <climits>

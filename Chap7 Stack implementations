@@ -1,0 +1,31 @@
+Programming Problem 9------------------------------------------------------------------------------
+the implementation is written for you in the textbook
+
+the method just needs to
+peek() --> save result
+pop()
+peek()
+push(result)
+
+its technically not removing it from the stack as a whole so i say it counts
+
+2----------------------------------------------------
+a. yes if you use an arraystack you can store which the value being pop and send it to the ADT bag's remove method
+b. No as it would be unable to remove an item in the bag
+
+3--------------------------------------------------
+b. dont feel like doing rn
+c. we have already done
+
+5------------------------------------------------------
+remove(int n)
+  int i = 0;
+  while(i < n)
+     stack.pop
+      i++
+
+//I know guys hold your applause
+
+6----------------------------------------------------
+
+samething

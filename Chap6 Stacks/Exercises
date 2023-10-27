@@ -1,0 +1,20 @@
+Question 5 -----------------------------------------------------
+
+// remove method of ArrayStack class 
+//n is the amount of elements removed
+//bool ArrayStack<ItemType> remove(n)
+//  while (i < n) 
+//     if( !(isEmpty())) checking if empty and returns false if true
+//     return false
+//     
+//    else{stack.pop()} pops stack if not empty
+//  return true;   if loop completes then return true
+
+
+Question 6 ----------------------------------------------------
+a = 7 b = 3 c = 12 d = -5 e = 1
+
+a. a b c + − 
+
+b. a b c − d * + 
+c. a b + c − d e * +

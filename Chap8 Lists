@@ -1,0 +1,24 @@
+Write pseudocode implementations of the ADT polynomial operations, as defined in Exercise 9 of Chapter 1, in terms of the ADT list operations.
+
+Ex 9 Chapter 1
+degree() // Returns the degree of a polynomial. 
+coefficient(power) // Returns the coefficient of the  xpower term. 
+changeCoefficient(newCoefficient, power) // Replaces the coefficient of 
+                                         // the  xpower term with  newCoefficient.
+
+Assume that each term is a string so 4x^2 + 2x = "4x^2" "2x" 
+
+void polyToList(String poly)// converts string polynomial to list
+  // remove spaces of string 
+  // convert all operators to the same operator for coordination
+  // and parenthesis
+  
+  while(poly.indexOf('+') != -1)
+    // send substring up until the + to list then remove it from poly INCLUDING the plus
+
+char degree(List<std::string> list)
+  // assert (!list.isEmpty)
+  // find 1st term
+  //std::string str = list.getEntry(1)
+  //return str.length - 1
+  

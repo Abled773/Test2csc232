@@ -1,0 +1,32 @@
+2. Trace the insertion sort as it sorts the following array into ascending order:
+
+20 80 40 25 60 40
+20 40 80 25 60 40
+20 25 40 80 60 40
+20 25 40 60 80 40
+20 25 40 40 60 80
+
+3. Trace the selection sort as it sorts the following array into ascending order: // this algorithim sucks
+7 12 24 4 19 32
+4 7 12 24 19 32
+4 7 12 24 19 32
+4 7 12 24 19 32
+4 7 12 19 24 32
+4 7 12 19 24 32
+
+4. Trace the bubble sort as it sorts the following array into descending order 
+
+12 23 5 10 34
+12 5 10 23 34
+5 10 12 23 34
+
+6.How many comparisons would be needed to sort an array containing 25 entries using the bubble sort in
+
+The worst case?
+300 (n(n-1))/2
+The best case?
+24
+
+7. an inverse one
+
+10. If I get to it but god no dont make me
